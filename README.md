@@ -18,7 +18,7 @@ This project is part of the **Luxoft University Connect Program (Phase 2)**. It 
 
 ## Tech Stack
 
-* **Frontend:** Django Templates (or React)
+* **Frontend:** React Components
 * **Backend:** Django, Celery, Redis
 * **Database:** PostgreSQL (or SQLite for dev)
 * **Parsing:** Python libraries (`lxml`, `xmlschema`)
