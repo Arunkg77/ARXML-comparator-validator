@@ -20,7 +20,7 @@ This project is part of the **Luxoft University Connect Program (Phase 2)**. It 
 
 * **Frontend:** React Components
 * **Backend:** Django, Celery, Redis
-* **Database:** PostgreSQL (or SQLite for dev)
+* **Database:** SQLite
 * **Parsing:** Python libraries (`lxml`, `xmlschema`)
 * **AI Models:** Gemini 1.5 Pro (main), LLaMA 3 (fallback)
 
